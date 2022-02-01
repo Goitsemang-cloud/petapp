@@ -23,3 +23,10 @@ npm install
 expo start
 ```
 > :warning: **This source code is not for commercial use**
+
+## Prototype clip
+https://user-images.githubusercontent.com/63322721/151929623-6f274eb2-3f5e-4386-b091-d6533b3c7288.mp4
+
+## Live deme of the 
+https://user-images.githubusercontent.com/63322721/151929896-7164b1e1-aab2-4c4a-8c14-05b61248d9c0.mp4
+
